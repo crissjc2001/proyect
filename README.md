@@ -6,7 +6,7 @@
   <div><p>hola mundo</p>
   <h1>hola amigos</h1>
 
-  <h3>hola a todos!</h3>
+  <h3>hola a todos! amigos</h3>
   </div>
   </body>
 </html>
